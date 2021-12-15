@@ -1,0 +1,6 @@
+NAMESPACE :
+-> organiza classes
+-> System é um namespace
+-> acessar uma classe dentro de um namespace:
+	EX: System.Console ou using System   Console
+-> não aceita classes com o mesmo nome

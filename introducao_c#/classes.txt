@@ -1,0 +1,19 @@
+CLASSE:
+-> class Pessoa
+   {
+	public string Nome {get; set;}
+	public string Estado { get; set;}
+	public int Idade {get; set;}
+   }
+
+-> para chamar:
+
+Pessoa person = new Pessoa();
+person.Nome = "Giovana";
+person.Estado = "SP";
+person.Idade = 18;
+
+var person2 = new Pessoa();
+person2.Idade = 11;
+person2.Nome = "Maria Eduarda";
+person2.Estado = "SP";
